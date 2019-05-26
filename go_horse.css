@@ -1,0 +1,20 @@
+#field{
+    max-width: 402px;
+    max-height: 402px;
+    box-sizing: border-box;
+}
+.chess-block{
+    width: 50px;
+    height: 50px;
+    box-sizing: border-box;
+    float: left;
+}
+.bg-black{
+    background: black;
+}
+.active{
+    background-color: olivedrab;
+}
+.green{
+    background-color: darkgreen;
+}
